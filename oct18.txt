@@ -1,0 +1,22 @@
+17:33:03	 From  Alex Bader : Are you going over 2d arrays today?
+17:34:41	 From  Delaware Wade : vim/vi please
+17:34:45	 From  Michael Ross : I prefer VI but I'm cool with anything
+17:40:30	 From  Delaware Wade : if you're using lots of registers, what's the best practice to have multiple functions? pushing the registers onto the stack?
+17:50:52	 From  Delaware Wade : what does the LSL do again
+18:01:59	 From  Delaware Wade : if you did LSL #4 would that be equivalent of multiplying by 8 or by 16
+18:02:59	 From  Delaware Wade : that makes sense, thank you!
+18:23:54	 From  Michael Ross : yup
+18:26:58	 From  Delaware Wade : why use the object code when you can have just the regular compile commands in the makefile for .S files
+18:27:54	 From  Delaware Wade : ohhh but the .o will be already there and ready
+18:28:15	 From  Delaware Wade : makes sense, thanks!
+18:33:39	 From  Delaware Wade : did sort modify the actual values
+18:44:29	 From  Michael Ross : definitely
+18:44:36	 From  Delaware Wade : does the exam have arrays
+18:45:46	 From  Delaware Wade : 👍
+19:07:16	 From  Michael Ross : yup
+19:21:17	 From  Michael Ross : yes sir
+19:21:36	 From  Shreyas Srinivasa : no Professor
+19:21:41	 From  Delaware Wade : thank you
+19:21:43	 From  Michael Ross : I will see you soon!
+19:21:44	 From  Michael Ross : thanks
+19:21:46	 From  Shreyas Srinivasa : seeya

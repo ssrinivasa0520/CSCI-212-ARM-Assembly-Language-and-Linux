@@ -1,0 +1,48 @@
+17:31:18	 From  Michael Ross : hello again professor
+17:31:29	 From  Stephen Nguyen : morning professor. about ur feedback on lab 3, what do u mean by needing to cross compile with the C code
+17:34:43	 From  Alex Bader : Are we gonna have another lab after lab 5? or will it be a final project
+17:36:40	 From  Alex Bader : And a final as well after lab 6?
+17:38:10	 From  Michael Ross : oof that's a lot
+17:39:33	 From  Stephen Nguyen : yes
+17:43:35	 From  Michael Ross : sounds sweet thank you!!
+17:43:38	 From  Nikolay : thanks
+17:43:39	 From  Alex Bader : To clarify the main driver for lab 5 can be written in C?
+17:43:50	 From  Michael Ross : honestly help with lab 4/5 will help me a ton. arrays in general I'm still working out
+17:44:03	 From  Stephen Nguyen : what if there's more than 10 different variables variables
+17:44:23	 From  Stephen Nguyen : from r0 to r10
+17:44:43	 From  Stephen Nguyen : I think both?
+17:53:23	 From  Delaware Wade : lab 4
+17:53:25	 From  Michael Ross : lab 4
+17:53:45	 From  Delaware Wade : 45
+17:55:48	 From  Delaware Wade : then you need 46 slots in your array
+17:56:02	 From  Stephen Nguyen : lab 5
+17:57:36	 From  Delaware Wade : how should we show the rounds being played? print out the values in the array each time?
+18:03:26	 From  Delaware Wade : should we store the address of the first array element in a register
+18:05:10	 From  Delaware Wade : so we would do:ldr r0 [fp, #-4]
+18:05:26	 From  Delaware Wade : oh 8 bytes
+18:06:44	 From  Delaware Wade : why is it 8 away from fp while fp and lr are only 4 bytes apart
+18:08:28	 From  Delaware Wade : so fp is actually pointing to lr?
+18:08:31	 From  Delaware Wade : or sp
+18:09:54	 From  Delaware Wade : oh so you still have the old fp on the stack
+18:10:07	 From  Delaware Wade : that makes sense
+18:24:48	 From  Michael Ross : yup
+18:46:50	 From  Nikolay : fp-12
+18:49:52	 From  Delaware Wade : don't we need 46 so we can store the address of the first element
+18:54:22	 From  Michael Ross : makes sense to me
+19:04:49	 From  Michael Ross : yup
+19:07:31	 From  Michael Ross : beautiful
+19:13:54	 From  Nikolay : rand?
+19:15:53	 From  Michael Ross : mmmm
+19:17:59	 From  Delaware Wade : handling cards
+19:18:00	 From  Michael Ross : tbh different ways of handling cards
+19:19:06	 From  Michael Ross : ahh I see
+19:21:26	 From  Delaware Wade : are these separate files that store each player's hand
+19:22:57	 From  Delaware Wade : so the computer's cards are negative values?
+19:23:43	 From  Delaware Wade : 👍
+19:32:20	 From  Nikolay : can we reuse the finction?
+19:32:39	 From  Nikolay : i mean for  each player
+19:35:31	 From  Michael Ross : a TON
+19:35:48	 From  Michael Ross : no but thank you!! see ya
+19:35:52	 From  Stephen Nguyen : ty
+19:35:55	 From  Delaware Wade : thank you
+19:35:57	 From  Nikolay : thank you

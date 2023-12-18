@@ -1,0 +1,15 @@
+17:33:38	 From  michaelross : honestly i feel solid after those office hours
+17:58:06	 From  Nikolay : yes
+18:27:59	 From  Adrian Bernardino : hey professor for lab 1 when we converted our .c code to .s I noticed for the input section when the user needs to enter a nth number it uses .ascii instead of .asciz, why is that? wouldn’t .asciz be a better option
+18:28:52	 From  Adrian Bernardino : ok thank you
+18:36:38	 From  Michael Ross : ummm I think we wanted to
+18:37:01	 From  Adrian Bernardino : i think so
+18:37:09	 From  Adrian Bernardino : cop r0, #0
+18:37:21	 From  Adrian Bernardino : **cmp
+18:41:49	 From  Adrian Bernardino : go back to terminal maybe?? idk
+18:41:54	 From  Adrian Bernardino : nvm haha
+19:13:18	 From  Matthew Scibetta : would it be worth it to change the output order so that it says what is played and then the win state?
+19:13:18	 From  Michael Ross : beautiful
+19:32:00	 From  Michael Ross : thank you so much Professor! have a good night
+19:32:06	 From  Nikolay : thank you!
+19:32:08	 From  Adrian Bernardino : thank you

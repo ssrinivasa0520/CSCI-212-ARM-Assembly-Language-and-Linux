@@ -1,0 +1,52 @@
+17:32:45	 From  Michael Ross : ;yup
+17:33:06	 From  Alex Bader : How would you write NULL or '\0' in assembly?
+17:33:26	 From  Nikolay : loops
+17:36:48	 From  Delaware Wade : a bit yes
+17:37:08	 From  Nikolay : comparing values
+17:37:30	 From  Nikolay : gt, lt
+17:40:34	 From  Nikolay : code blocks requires use #
+17:43:09	 From  Nikolay : ok, thanks
+17:45:21	 From  Nikolay : using switches?
+17:45:23	 From  Delaware Wade : it uses an adder?
+17:45:27	 From  Alex Bader : Does it use the 2s compliment?
+17:47:21	 From  Delaware Wade : half adder circuit
+17:48:02	 From  Nikolay : switches?
+17:48:44	 From  Nikolay : silicon?
+17:53:23	 From  Adrian Bernardino : in discrete math we had to do truth tables as well, kind of similar in a way
+18:04:14	 From  Delaware Wade : is the one bit adder a full adder?
+18:08:55	 From  Delaware Wade : the x and y produces the carry, right?
+18:09:29	 From  Delaware Wade : oh ok
+18:19:18	 From  Michael Ross : I had a question on lab 1
+18:20:57	 From  Delaware Wade : lab 2 is due next week, right?
+18:21:02	 From  Joshua N : Yes
+18:22:35	 From  Delaware Wade : thanks
+18:39:15	 From  Nikolay : yes
+18:42:12	 From  Nikolay : no
+18:42:13	 From  Delaware Wade : I wasn't
+18:42:15	 From  Michael Ross : not that I remember
+18:42:16	 From  Joshua N : From what I can recall I don’t think so
+18:45:28	 From  Nikolay : how to write a decrement loop
+18:46:19	 From  Nikolay : yes'
+18:48:31	 From  Nikolay : thanks
+18:49:28	 From  michaelross : thinking
+18:49:29	 From  Nikolay : some sequence
+18:49:29	 From  Delaware Wade : do you have an example?
+18:49:51	 From  Delaware Wade : what about rock paper scissors
+18:50:07	 From  michaelross : ooo I like it
+18:50:33	 From  Alex Bader : how come you don't need to import any c libraries when you call the c functions in assembly?
+18:52:29	 From  Delaware Wade : my connection dropped, did I miss anything?
+18:53:50	 From  Joshua N : We’re doing Rock Paper Scissors example @delware and he’s assigning 0 = paper 1 = scissor 2 = rock to determine who wins
+18:54:52	 From  Delaware Wade : thanks
+18:58:25	 From  Joshua N : So far so good
+19:10:15	 From  Nikolay : there is loop?
+19:10:42	 From  Nikolay : thanks
+19:15:27	 From  Joshua N : yes
+19:28:31	 From  Delaware Wade : still a bunch of if statements
+19:32:34	 From  Joshua N : Slowly but surely
+19:32:36	 From  Nikolay : thanks
+19:32:39	 From  michaelross : gonna have to review forsure but made sense following
+19:32:50	 From  Adrian Bernardino : thank you
+19:32:58	 From  Joshua N : ty
+19:33:00	 From  michaelross : thanks professor have a good one
+19:33:01	 From  Matthew Scibetta : thansk
+19:33:02	 From  Delaware Wade : thank you!

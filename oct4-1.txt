@@ -1,0 +1,28 @@
+17:33:16	 From  Michael Ross : can you go over ldr just in general a little
+17:33:26	 From  Michael Ross : as in "ldr r0, [r6] or something
+17:33:51	 From  Adrian Bernardino : the swap function example 🙏
+17:34:05	 From  Alex Bader : can you show how to sort a string
+17:34:58	 From  Alex Bader : yes
+17:45:11	 From  Alex Bader : whats the difference with ldrb and strb?
+17:45:33	 From  Alex Bader : right
+17:49:25	 From  Delaware Wade : which is 32 bits right
+17:56:33	 From  Alex Bader : so ldrb loads in one character, and ldrw loads in two characters?
+17:58:02	 From  Alex Bader : to get to the next character would you increment the sp by one ?
+17:59:30	 From  Alex Bader : like say you have a sub sp, sp, #1000 and you use a scanf("%s")
+18:01:06	 From  Alex Bader : ahh that makes sense, thank you
+18:11:38	 From  Nikolay : and how you pass them to a function?
+18:11:51	 From  Michael Ross : ahh and this is why you dereference the sp
+18:11:59	 From  Michael Ross : oh nvm
+18:12:14	 From  Nikolay : i mean to the different function
+18:12:27	 From  Nikolay : not scanf
+18:17:03	 From  Michael Ross : forsure
+18:17:08	 From  Alex Bader : if you add sp, sp, #4 does it only change the location of the sp and not the value
+18:21:38	 From  Alex Bader : it doesn't change the value
+18:32:56	 From  Michael Ross : yup
+18:45:25	 From  Adrian Bernardino : yes thank you
+19:29:16	 From  Michael Ross : gonna take time to soak in but yeah
+19:29:49	 From  Adrian Bernardino : seems understandable, just need some more exposure to it
+19:30:03	 From  Michael Ross : sounds good
+19:30:13	 From  Adrian Bernardino : thank you
+19:30:13	 From  Michael Ross : have a good week!
+19:30:15	 From  Nikolay : thank you

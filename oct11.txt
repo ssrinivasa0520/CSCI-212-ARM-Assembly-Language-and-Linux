@@ -1,0 +1,29 @@
+17:38:44	 From  Delaware Wade : or could you say push {a, b}
+17:40:13	 From  Delaware Wade : which way does the stack go in your drawing?
+17:41:11	 From  Delaware Wade : shouldn't fp and lr be on the bottom of the stack because you pushed them earlier than a and b?
+17:41:37	 From  Delaware Wade : oh ok!
+17:43:11	 From  Delaware Wade : vim
+17:43:16	 From  Alex Bader : VI please
+17:50:44	 From  Nikolay : no
+17:50:45	 From  Delaware Wade : yes
+17:50:49	 From  michaelross : it’s been so long since then but I think
+18:01:57	 From  michaelross : share picture of dogs some day
+18:08:33	 From  Alex Bader : you would be allocating memory on the stack and not the heap?
+18:12:10	 From  michaelross : yup not too bad actually
+18:20:58	 From  michaelross : I’m all good so far
+18:21:24	 From  michaelross : would you just [sp, #4]?
+18:26:53	 From  Alex Bader : if you allocated an array on the stack in a different function and return it, would it become invalid memory like in C?
+18:29:51	 From  Alex Bader : so you cant mov r0, sp before you exit the function to still have access?
+18:31:21	 From  Alex Bader : thank you
+18:32:29	 From  Alex Bader : ahhh so its best we do it in the main function for now then?
+18:47:12	 From  michaelross : text editor for me!
+18:47:14	 From  Adrian Bernardino : text editor
+18:47:44	 From  Delaware Wade : using codeblocks when i'm used to visual studio is a bit jarring
+19:03:46	 From  michaelross : yup
+19:27:03	 From  Nikolay : how?
+19:28:04	 From  26 Stephen Nguyen : what if it's 6 elements?
+19:30:22	 From  Nikolay : thanks
+19:30:25	 From  michaelross : going to take some hands on time but so far this makes sense
+19:30:31	 From  Delaware Wade : thank you
+19:30:31	 From  michaelross : thanks professor see you friday
+19:30:35	 From  Adrian Bernardino : thank you

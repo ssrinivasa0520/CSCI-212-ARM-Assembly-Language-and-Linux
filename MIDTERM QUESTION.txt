@@ -1,0 +1,32 @@
+Write an ARM assembler program (DO NOT WRITE THE CODE IN C THEN AUTOGENERATE TO ASSEMBLER) to play the game High-Low.  
+Your program will randomly generate a number between 1 to 20 (i.e., includes 1 and include 20).  It will then ask the user to guess that number.  
+If it the user enters a number too low, print a message that it is too low, if the number is too high, print a message that it is too high, otherwise tell the user that he/she guessed it correctly.  
+Allow the user only 3 chances to guess, and if the user fails to guess correctly after 3 tries, print out YOU LOSE.
+
+Your code should have at a minimum THREE functions: main.s, generate_number.s, get_user_guess.s.
+
+main.s will drive the functions call
+
+generate_number.s will generate the random number from 1 to 20
+
+get)user_guess.s will get a guess from the user
+
+Example:
+
+(program generates a random number, say 5)
+
+Please enter a guess:  10
+
+Too high, guess again
+
+Please enter a guess: 1
+
+Too low, guess again
+
+Please enter a guess: 6
+
+You lost!
+
+Please provide a makefile to compile your code into an executable called "hilow".  
+
+ZIP up the entire directory and submit it.

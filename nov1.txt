@@ -1,0 +1,30 @@
+17:32:26	 From  michaelross : hello professor
+17:32:50	 From  Nikolay : lab 4?
+17:33:07	 From  Nikolay : some tips
+17:45:00	 From  Nikolay : yes
+18:02:10	 From  Nikolay : yes
+18:02:12	 From  michaelross : gonna have to try it more but that helps a lot
+18:12:26	 From  Adrian Bernardino : a function that does the loop
+18:12:36	 From  Adrian Bernardino : oh nvm
+18:22:15	 From  Stephen Nguyen : is the screen frozen?
+18:22:54	 From  Nikolay : yes
+18:23:05	 From  Stephen Nguyen : yes
+18:23:06	 From  Delaware Wade : yep we can hear you
+18:40:35	 From  Adrian Bernardino : does that say cop r10, r5? or r1
+18:40:40	 From  Adrian Bernardino : *cmp
+18:41:00	 From  Adrian Bernardino : r10 or r1? i meant my bad
+18:41:27	 From  Adrian Bernardino : ah ok thank you
+18:46:54	 From  Adrian Bernardino : yes
+18:55:31	 From  Nikolay : str_output?
+18:56:06	 From  Nikolay : the format
+18:58:20	 From  Stephen Nguyen : vi
+19:17:08	 From  Nikolay : you moved dollar sign before o
+19:17:10	 From  Nikolay : 0
+19:17:22	 From  Nikolay : r10
+19:20:28	 From  Nikolay : nope
+19:35:25	 From  Nikolay : adress?
+19:36:32	 From  Stephen Nguyen : lab 3 and midterm I turned in hasn't been graded yet
+19:37:07	 From  Stephen Nguyen : k
+19:37:09	 From  Nikolay : thank you!
+19:37:10	 From  Stephen Nguyen : ty
+19:37:12	 From  Adrian Bernardino : thank you

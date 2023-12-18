@@ -1,0 +1,26 @@
+17:31:01	 From  Alex Bader : yes
+17:31:05	 From  Delaware Wade : yep
+17:32:01	 From  Delaware Wade : not yet
+17:32:23	 From  Alex Bader : would you be posting lab 5 and the assignments this week?
+17:34:08	 From  26 Stephen Nguyen : how will lab 4 be written in C?
+17:56:44	 From  Adrian Bernardino   to   Duy Nguyen(Direct Message) : sorry for joining late professor. I just got home and had to update my zoom app
+18:02:43	 From  Michael Ross : I think so
+18:02:50	 From  Alex Bader : how would you get the last element? by adding or subtracting the pointer
+18:07:20	 From  Alex Bader : yes
+18:08:21	 From  Alex Bader : when you call free, does it have to be at the start of the array?
+18:09:38	 From  Michael Ross : is the command "mov r1, #6" necessary before storing the number?
+18:10:34	 From  Michael Ross : gotcha ran into the same problem with mul and div
+18:23:46	 From  Michael Ross : why are the cols at #3?
+18:26:28	 From  Michael Ross : ahhh gotcha. I wasn't accounting for the extra rows
+18:26:43	 From  Michael Ross : I missed the first part of the lecture so sorry if you already went over this
+18:28:01	 From  Michael Ross : awesome thank you
+18:50:33	 From  Michael Ross : so far so good
+18:57:02	 From  Shreyas Srinivasa : no
+19:16:29	 From  Michael Ross : vi
+19:17:03	 From  Adrian Bernardino : gary
+19:17:12	 From  26 Stephen Nguyen : theresa
+19:27:26	 From  Michael Ross : beautiful
+19:28:32	 From  Adrian Bernardino : wasn’t the rm * .o supposed to delete your .o files?
+19:29:39	 From  Adrian Bernardino : oh ok thank you
+19:29:56	 From  Michael Ross : thank you professor! see you Monday for office hours have a good one
+19:29:56	 From  Delaware Wade : thank you
